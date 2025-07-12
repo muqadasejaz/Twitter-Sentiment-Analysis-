@@ -93,7 +93,7 @@ The dataset used is the **Sentiment140** dataset, which contains:
 
 - Positive:
   
-<img width="1307" height="590" alt="predictions jpg" src="https://github.com/user-attachments/assets/e1714bdc-7691-4b87-9528-f8b4534e2d7e" />
+<img width="1257" height="585" alt="prediction" src="https://github.com/user-attachments/assets/1c195fe3-223c-4f47-ae3b-82c46c6b9d88" />
 
 
 - Negative:

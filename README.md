@@ -44,6 +44,8 @@ The dataset used is the **Sentiment140** dataset, which contains:
 
 📂 Dataset link: [Sentiment140 on Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
+- Kaggle Notebook: (https://www.kaggle.com/code/muqaddasejaz/twitter-sentiment-analysis-using-svm)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✅ Result

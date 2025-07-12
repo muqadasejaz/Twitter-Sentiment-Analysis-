@@ -1,10 +1,5 @@
 # 💬 Twitter Sentiment Analysis
-
-
-             ![sa](https://github.com/user-attachments/assets/dd3ece52-9de8-481a-862b-3d4dcef28ee2)
-
             
-
 Twitter Sentiment Analysis is the process of using Python to understand the **emotions or opinions expressed in tweets automatically**. By analyzing the text, we can classify tweets as **positive (1) or negative (0)**. This helps **businesses and researchers** track **public mood**, **brand reputation**, or **reactions to events** in real time.
 
 This project includes a **trained machine learning model**, a **user-friendly desktop GUI**, and utilizes **natural language processing techniques** to make sentiment predictions from tweet text input.

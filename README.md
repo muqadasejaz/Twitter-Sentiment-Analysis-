@@ -1,6 +1,8 @@
 # 💬 Twitter Sentiment Analysis
 
-            ![sa](https://github.com/user-attachments/assets/508509a3-f102-4e92-bc01-5b2966855d30)
+
+             ![sa](https://github.com/user-attachments/assets/dd3ece52-9de8-481a-862b-3d4dcef28ee2)
+
             
 
 Twitter Sentiment Analysis is the process of using Python to understand the **emotions or opinions expressed in tweets automatically**. By analyzing the text, we can classify tweets as **positive (1) or negative (0)**. This helps **businesses and researchers** track **public mood**, **brand reputation**, or **reactions to events** in real time.
@@ -96,38 +98,14 @@ The dataset used is the **Sentiment140** dataset, which contains:
 
 - Positive:
   
-![GUI Screenshot](<img width="1257" height="585" alt="prediction" src="https://github.com/user-attachments/assets/0c2bb9fd-9a6a-440b-9daa-b7dd11fa3683" />)
+<img width="1307" height="590" alt="predictions jpg" src="https://github.com/user-attachments/assets/e1714bdc-7691-4b87-9528-f8b4534e2d7e" />
+
 
 - Negative:
 
   <img width="1307" height="590" alt="predictions jpg" src="https://github.com/user-attachments/assets/81c6f2ce-5d52-4629-9bc7-13a0d462557d" />
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 📂 How to Run the Project Locally
-
-Follow these steps to set up and run the Twitter Sentiment Analysis GUI on your local machine:
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/muqadasejaz/twitter-sentiment-analysis.git
-cd twitter-sentiment-analysis
-
-### 2️⃣ Install Required Libraries
-
-pip install -r requirements.txt
-
-### 3️⃣ Train the model
-
-python scripts/twitter-sentiment-analysis.ipynb
-
-### 4️⃣ Test any email from terminal
-python scripts/twitter-sentiment-analysis.ipynb
-
-## 5️⃣ Run GUI app
-python scripts/gui.py
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

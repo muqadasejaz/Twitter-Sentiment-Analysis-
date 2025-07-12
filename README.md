@@ -79,7 +79,7 @@ The dataset used is the **Sentiment140** dataset, which contains:
 | Tool/Library |                Purpose               |
 |--------------|--------------------------------------|
 | Python       | Core programming language            |
-| Scikit-learn | Model training (Logistic Regression) |
+| Scikit-learn | Model training (SVM Classifier) |
 | NLTK         | Tokenization, preprocessing          |
 | TextBlob     | Sentiment feature extraction         |
 | Tkinter      | GUI development                      |
